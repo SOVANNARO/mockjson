@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "name": "SOVAN NARO",
+      "mobile": "0667415",
+      "email": "sovannaro066@gmail.com",
+      "password": "32323",
+      "id": 2
+    },
+    {
+      "name": "SOVAN NARO",
+      "mobile": "066741551",
+      "email": "sovannaro066@gmail.com",
+      "password": "232",
+      "id": 3
+    },
+    {
+      "name": "SOVAN NARO",
+      "mobile": "066741551",
+      "email": "sovannaro066@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}
